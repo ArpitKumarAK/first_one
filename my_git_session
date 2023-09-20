@@ -1,0 +1,947 @@
+Script started on 2023-09-18 13:19:26+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;arpitkumar@TIGER01108: ~[01;32marpitkumar@TIGER01108[00m:[01;34m~[00m$ pwd
+[?2004l/home/arpitkumar
+[?2004h]0;arpitkumar@TIGER01108: ~[01;32marpitkumar@TIGER01108[00m:[01;34m~[00m$ cd /mnt/d/"Learnign[K[Kng & Development"
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development[00m$ ls
+[?2004l [0m[34;42mCertificates[0m        [01;32m'SAS Viya & Model Code Walkthrough (2023-05-11 14_31 GMT+5_30).mp4'[0m
+[34;42m'Explanable AI'[0m       [34;42mTAMLEP[0m
+[34;42m'Feature selection'[0m  [34;42m'US Pharma'[0m
+ [01;32mMy_photo.gif[0m         [01;32mlogistic-regression-part-2-2021.pdf[0m
+[34;42m'NLP course'[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development[00m$ cd TAMLEP
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP[00m$ ls
+[?2004l[0m[34;42mLearnings[0m  [34;42mshell-lesson-data[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP[00m$ cd Learnigns[K[K[Kngs
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ ls
+[?2004l[0m[01;32m'Git commands.xlsx'[0m   [01;32mGit_book.pdf[0m  [01;32m'Unix shell Git-Bash.txt'[0m   [01;32mgit1.txt[0m   [34;42msimplegit-progit[0m  [01;32m'~$Git commands.xlsx'[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ gi t config --global user.email [K[K[K[K[K[Kname [K "Arpit Kumar"
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ gi t config --global user.email arpitkumarjan[K[K[K[K[K[K[K[K.kumar#[K@tigeranalyti[K[K[K[Klu[Kytics.com
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ gt[Kit config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global init.defal[KultBranch main
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ gif[Kt config --list --show [K-origin
+[?2004l[?1h=file:/home/arpitkumar/.gitconfig        user.name=Arpit Kumar[m
+file:/home/arpitkumar/.gitconfig        user.emal=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        user.email=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        core.editor=notepad[m
+file:/home/arpitkumar/.gitconfig        init.defaultbranch=main[m
+file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=false[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+file:.git/config        core.ignorecase=true[m
+:[K...skipping...
+file:/home/arpitkumar/.gitconfig        user.name=Arpit Kumar[m
+file:/home/arpitkumar/.gitconfig        user.emal=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        user.email=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        core.editor=notepad[m
+file:/home/arpitkumar/.gitconfig        init.defaultbranch=main[m
+file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=false[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+file:.git/config        core.ignorecase=true[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KESCESC[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KESCESC[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K[HM[1m~[0m
+[35;1H[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K-[Klog file: [Kww[Kss[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K-[Klog file: [Kff[Kss[Kww[Kff[K[K[K[K[KYY[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K[7mCannot edit standard input  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K-[Klog file: [Knn[K[KNN[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K-[Klog file: [Kdd[Kmm[Kll[Kss[Knn[Kkk[Kdd[Kdd[Knn[Kkk[Kss[Kmm[Knn[Kvv[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K[7mCannot edit standard input  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K-[Klog file: [Kvv[Kkk[Kjj[Kdd[Knn[Kvv[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7mCannot edit standard input  (press RETURN)[27m[35;1H[K[K-[Klog file: [Kmm[Kvv[Knn[Kkk[K[K[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K-[Klog file: [Knn[Kdd[Kvv[Kdd[Kvv[Knn[Kdd[Kkk[Kjj[Kss[Knn[Kvv[Kkk[Knn[Kvv[Kkk[Kss[Kjj[Kss[Kff[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K[7mCannot edit standard input  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7mCannot edit standard input  (press RETURN)[27m[35;1H[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K-[Klog file: [Kkk[Kjj[Kff[Knn[Kkk[Kss[Kll[K[K[7mLog file is already in use  (press RETURN)[27m[35;1H[K[K[1m~[0m
+[7m(END)[27m[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[35;1H[K[K...skipping...
+file:/home/arpitkumar/.gitconfig        user.name=Arpit Kumar[m
+file:/home/arpitkumar/.gitconfig        user.emal=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        user.email=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        core.editor=notepad[m
+file:/home/arpitkumar/.gitconfig        init.defaultbranch=main[m
+file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=false[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+file:.git/config        core.ignorecase=true[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K...skipping...
+file:/home/arpitkumar/.gitconfig        user.name=Arpit Kumar[m
+file:/home/arpitkumar/.gitconfig        user.emal=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        user.email=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        core.editor=notepad[m
+file:/home/arpitkumar/.gitconfig        init.defaultbranch=main[m
+file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=false[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+file:.git/config        core.ignorecase=true[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7mNo next tag  (press RETURN)[27m[35;1H[K[K[K[7m(END)[27m[K[K...skipping...
+file:/home/arpitkumar/.gitconfig        user.name=Arpit Kumar[m
+file:/home/arpitkumar/.gitconfig        user.emal=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        user.email=arpit.kumar@tigeranalytics.com[m
+file:/home/arpitkumar/.gitconfig        core.editor=notepad[m
+file:/home/arpitkumar/.gitconfig        init.defaultbranch=main[m
+file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=false[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+file:.git/config        core.ignorecase=true[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K/[K[K[7mNo previous regular expression  (press RETURN)[27m[35;1H[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[m
+cs.com[m
+ics.com[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KESCESC[K[K[7m(END)[27m[K[K [KESCESC[K^J^J[K[7m(END)[27m[K[K [KESCESC[KESCESC[K[K[7m(END)[27m[K[K[?1l>
+[1]+  Stopped                 git config --list --show-origin
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --list
+[?2004l[?1h=user.name=Arpit Kumar[m
+user.emal=arpit.kumar@tigeranalytics.com[m
+user.email=arpit.kumar@tigeranalytics.com[m
+core.editor=notepad[m
+init.defaultbranch=main[m
+core.repositoryformatversion=0[m
+core.filemode=false[m
+core.bare=false[m
+core.logallrefupdates=true[m
+core.ignorecase=true[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --gloval[K[K[Kbal [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global [K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --global core.editor notepad
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git li[K[Kconfif[Kg --list
+[?2004l[?1h=user.name=Arpit Kumar[m
+user.emal=arpit.kumar@tigeranalytics.com[m
+user.email=arpit.kumar@tigeranalytics.com[m
+core.editor=notepad[m
+init.defaultbranch=main[m
+core.repositoryformatversion=0[m
+core.filemode=false[m
+core.bare=false[m
+core.logallrefupdates=true[m
+core.ignorecase=true[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config user,[K.name
+[?2004lArpit Kumar
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config user.email
+[?2004larpit.kumar@tigeranalytics.com
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config --show-origin rerere.autoupdate[K[K[K[K[K[KUpf[Kdate
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ gi [Kt hep[Klp config
+[?2004l[?1049h[22;0;0t[?1h=GIT-CONFIG(1)                                                      Git Manual                                                      GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --replace-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get-all name [value-pattern][m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K...skipping...
+GIT-CONFIG(1)                                                      Git Manual                                                      GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --replace-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] [--name-only] --get-regexp name_regex [[m value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-urlmatch name URL[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [--show-scope] [-z|--null] [--name-only] -l | --list[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
+       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
+[m
+[1mDESCRIPTION[0m[m
+       You can query/set/replace/unset options with this command. The name is actually the section and the key separated by a dot, and the value[m
+       will be escaped.[m
+[m
+       Multiple lines can be added to an option by using the [1m--add[0m option. If you want to update or unset an option which can occur on multiple[m
+       lines, a [1mvalue-pattern[0m (which is an extended regular expression, unless the [1m--fixed-value[0m option is given) needs to be given. Only the[m
+       existing values that match the pattern are updated or unset. If you want to handle the lines that do [1mnot[0m match the pattern, just prepend[m
+       a single exclamation mark in front (see also the section called “EXAMPLES”), but note that this only works when the [1m--fixed-value[0m option[m
+       is not in use.[m
+[m
+       The [1m--type=<type>[0m option instructs [4mgit[24m [4mconfig[24m to ensure that incoming and outgoing values are canonicalize-able under the given <type>.[m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[H[2J[H[H[2J[HGIT-CONFIG(1)                                                      Git Manual                                           [m            GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value[m  [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --replace-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get name [m [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get-all n[m ame [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] [--name-onl[m y] --get-regexp name_regex [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-urlmatch name URL[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [--show-scope] [-z|--null] [--name-only] -l | --list[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
+       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
+[m
+[1mDESCRIPTION[0m[m
+       You can query/set/replace/unset options with this command. The name is actually the section and the key separated[m [7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[H[2J[H[H[2J[HGIT-CONFIG(1)                                                      Git Manual                                                      GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --replace-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] [--name-only] --get-regexp name_regex [[m value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-urlmatch name URL[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [--show-scope] [-z|--null] [--name-only] -l | --list[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
+       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
+[m
+[1mDESCRIPTION[0m[m
+       You can query/set/replace/unset options with this command. The name is actually the section and the key separated by a dot, and the value[m
+       will be escaped.[m
+[m
+       Multiple lines can be added to an option by using the [1m--add[0m option. If you want to update or unset an option which can occur on multiple[m
+       lines, a [1mvalue-pattern[0m (which is an extended regular expression, unless the [1m--fixed-value[0m option is given) needs to be given. Only the[m
+       existing values that match the pattern are updated or unset. If you want to handle the lines that do [1mnot[0m match the pattern, just prepend[m
+       a single exclamation mark in front (see also the section called “EXAMPLES”), but note that this only works when the [1m--fixed-value[0m option[m
+       is not in use.[m
+[m
+       The [1m--type=<type>[0m option instructs [4mgit[24m [4mconfig[24m to ensure that incoming and outgoing values are canonicalize-able under the given <type>.[m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[H[2J[H[H[2J[HGIT-CONFIG(1)                                                      Git Manual                                                      GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value [value-pattern]][m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git add -h
+[?2004lusage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --sparse              allow updating entries outside of the sparse-checkout cone
+    --chmod (+|-)x        override the executable bit of the listed files
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git config -h
+[?2004lusage: git config [<options>]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    --worktree            use per-worktree config file
+    -f, --file <file>     use given config file
+    --blob <blob-id>      read config from given blob object
+
+Action
+    --get                 get value: name [value-pattern]
+    --get-all             get all values: key [value-pattern]
+    --get-regexp          get values for regexp: name-regex [value-pattern]
+    --get-urlmatch        get value specific for the URL: section[.var] URL
+    --replace-all         replace all matching variables: name value [value-pattern]
+    --add                 add a new variable: name value
+    --unset               remove a variable: name [value-pattern]
+    --unset-all           remove all matches: name [value-pattern]
+    --rename-section      rename section: old-name new-name
+    --remove-section      remove a section: name
+    -l, --list            list all
+    --fixed-value         use string equality when comparing values to 'value-pattern'
+    -e, --edit            open an editor
+    --get-color           find the color configured: slot [default]
+    --get-colorbool       find the color setting: slot [stdout-is-tty]
+
+Type
+    -t, --type <>         value is given this type
+    --bool                value is "true" or "false"
+    --int                 value is decimal number
+    --bool-or-int         value is --bool or --int
+    --bool-or-str         value is --bool or string
+    --path                value is a path (file or directory name)
+    --expiry-date         value is an expiry date
+
+Other
+    -z, --null            terminate values with NUL byte
+    --name-only           show variable names only
+    --includes            respect include directives on lookup
+    --show-origin         show origin of config (file, standard input, blob, command line)
+    --show-scope          show scope of config (worktree, local, global, system, command)
+    --default <value>     with --get, use default value when missing entry
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ git init
+[?2004lReinitialized existing Git repository in /mnt/d/Learning & Development/TAMLEP/Learnings/.git/
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ mkdir TAMLEP_ASS[K[K[Kassignment1
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings[00m$ cd TAMLEP_assignment1
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ ls
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ git init
+[?2004lInitialized empty Git repository in /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/.git/
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ ls
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ git add[K[K[K[K[K[K[Kmv [K[K[Kls
+[?2004l[0m[01;32mText-file.txt[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ mv [K[K[Kmkdir[K[K[K[K[Kgit clone [7mhttps://github.com/ArpitKumarAK/first_one[27mhttps://github.com/ArpitKumarAK/first_one
+[?2004lCloning into 'first_one'...
+warning: You appear to have cloned an empty repository.
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ ls
+[?2004l[0m[01;32mText-file.txt[0m  [34;42mfirst_one[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ cd first_one
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ cd [K[K[Kcd ..
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ mv Text-file.txt first_one
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ ls
+[?2004l[0m[34;42mfirst_one[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1[00m$ cd first_one
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ ls
+[?2004l[0m[01;32mText-file.txt[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add *
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   Text-file.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git commit -m 'Initial C[Kcommit'
+[?2004l[main (root-commit) 6961190] Initial commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 Text-file.txt
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mText-file2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add test[K[Kxt-file2.te[Kxt
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mText-file2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add Text-fl[Kile2,[K.txt
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Text-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add [K[K[K[K[K[K[K[Kgit status[K[K[K[K[K[Kstatus-[K --staged
+[?2004lerror: unknown option `staged'
+usage: git status [<options>] [--] <pathspec>...
+
+    -v, --verbose         be verbose
+    -s, --short           show status concisely
+    -b, --branch          show branch information
+    --show-stash          show stash information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain[=<version>]
+                          machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --ignored[=<mode>]    show ignored files, optional modes: traditional, matching, no. (Default: traditional)
+    --ignore-submodules[=<when>]
+                          ignore changes to submodules, optional when: all, dirty, untracked. (Default: all)
+    --column[=<style>]    list untracked files in columns
+    --no-renames          do not detect renames
+    -M, --find-renames[=<n>]
+                          detect renames, optionally set similarity index
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ cat .gitignore
+[?2004lcat: .gitignore: No such file or directory
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ ignore all [K[K[K[K[K[K[K[K[K[K[Kignore *.a
+[?2004lignore: command not found
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git i[K[K[Ki[Kt ignreo[K[K[Kore *.a
+[?2004lgit: 'ignore' is not a git command. See 'git --help'.
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff
+[?2004l[?1h=[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff --staged
+[?2004l[?1h=[1mdiff --git a/Text-file2.txt b/Text-file2.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..e69de29[m[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Text-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff
+[?2004l[?1h=[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Text-file2.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   Text-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff
+[?2004l[?1h=[1mdiff --git a/Text-file2.txt b/Text-file2.txt[m[m
+[1mindex e69de29..72f77a2 100644[m[m
+[1m--- a/Text-file2.txt[m[m
+[1m+++ b/Text-file2.txt[m[m
+[36m@@ -0,0 +1,3 @@[m[m
+[32m+[m[32mHi Hey,[m[41m[7m^M[27m[m[m
+[32m+[m[32mTiger analytics[m[41m[7m^M[27m[m[m
+:[K[K[?1l>
+[2]+  Stopped                 git diff
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add Text-file2.txt
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ 
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Text-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git commit -m 'Added [K[K[Ked new fu[Kile"[K'
+[?2004l[main 54b3957] Added new file
+ 1 file changed, 3 insertions(+)
+ create mode 100644 Text-file2.txt
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git stu[Katus
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ rm tes[Kxt[K[K[K[K[K Text-file2.tc[Kxt
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    Text-file2.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git [K[K[K[Kls
+[?2004l[0m[01;32mText-file.txt[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git em [K[K[Krm Text-file2.txt
+[?2004lrm 'Text-file2.txt'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ f[Kgit status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Text-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Text-file2.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mText-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add Text-file2.txt
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git a[Kstatus
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git rm --cached t[KText-file2.txt
+[?2004lrm 'Text-file2.txt'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    Text-file2.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mText-file2.txt[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ ls
+[?2004l[0m[01;32mText-file.txt[0m  [01;32mText-file2.txt[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add Text-file[K[K[K[K[K[K[K[K[K*
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ gt[Kit status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff [K --staged
+[?2004l[?1h=[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git diff
+[?2004l[?1h=[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git mv Text-file2.txt to [K[K[Kfile2
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    Text-file2.txt -> file2[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ ls
+[?2004l[0m[01;32mText-file.txt[0m  [01;32mfile2[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git mv Text-file.txt file1
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    Text-file.txt -> file1[m
+	[32mrenamed:    Text-file2.txt -> file2[m
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git a[Kdiff
+[?2004l[?1h=[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git fi[K[Kdiff --staged
+[?2004l[?1h=[1mdiff --git a/Text-file.txt b/file1[m[m
+[1msimilarity index 100%[m[m
+[1mrename from Text-file.txt[m[m
+[1mrename to file1[m[m
+[1mdiff --git a/Text-file2.txt b/file2[m[m
+[1msimilarity index 100%[m[m
+[1mrename from Text-file2.txt[m[m
+:[K[K[?1l>
+[3]+  Stopped                 git diff --staged
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git add[K[K[Kcommit -m 'Renamed the files'
+[?2004l[main 85ffbd4] Renamed the files
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename Text-file.txt => file1 (100%)
+ rename Text-file2.txt => file2 (100%)
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log
+[?2004l[?1h=[33mcommit 85ffbd454db3cf3864177e2415a105767b03f787[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+Date:   Mon Sep 18 13:57:30 2023 +0530[m
+[m
+    Renamed the files[m
+[m
+[33mcommit 54b395734afbdc00b6e41e6d55247e0f1562d4c8[m[m
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[KAuthor: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Sep 18 13:51:04 2023 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added new file[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 6961190da9b00963a1765fd458cb41400c20e29d[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Sep 18 13:41:40 2023 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>
+[4]+  Stopped                 git log
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log 2
+[?2004lfatal: ambiguous argument '2': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log -2
+[?2004l[?1h=[33mcommit 85ffbd454db3cf3864177e2415a105767b03f787[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+Date:   Mon Sep 18 13:57:30 2023 +0530[m
+[m
+    Renamed the files[m
+[m
+[33mcommit 54b395734afbdc00b6e41e6d55247e0f1562d4c8[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Sep 18 13:51:04 2023 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added new file[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>
+[5]+  Stopped                 git log -2
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log -p -2
+[?2004l[?1h=[33mcommit 85ffbd454db3cf3864177e2415a105767b03f787[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+Date:   Mon Sep 18 13:57:30 2023 +0530[m
+[m
+    Renamed the files[m
+[m
+[1mdiff --git a/Text-file.txt b/file1[m[m
+:[K[K [KESCESC[KOO[KBB[K[1msimilarity index 100%[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mrename from Text-file.txt[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mrename to file1[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mdiff --git a/Text-file2.txt b/file2[m[m
+:[K[K [KESCESC[KOO[KBB[K[1msimilarity index 100%[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mrename from Text-file2.txt[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mrename to file2[m[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 54b395734afbdc00b6e41e6d55247e0f1562d4c8[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: Arpit Kumar <arpit.kumar@tigeranalytics.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Sep 18 13:51:04 2023 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added new file[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[1mdiff --git a/Text-file2.txt b/Text-file2.txt[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mnew file mode 100644[m[m
+:[K[K [KESCESC[KOO[KBB[K[1mindex 0000000..72f77a2[m[m
+:[K[K [KESCESC[KOO[KBB[K[1m--- /dev/null[m[m
+:[K[K [KESCESC[KOO[KBB[K[1m+++ b/Text-file2.txt[m[m
+:[K[K [KESCESC[KOO[KBB[K[36m@@ -0,0 +1,3 @@[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mHi Hey,[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mTiger analytics[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mWhat is it?[m[m
+:[K[K [KESCESC[KOO[KBB[K\ No newline at end of file[m[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>
+[6]+  Stopped                 git log -p -2
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log =[K--pretty=oneline
+[?2004l[?1h=[33m85ffbd454db3cf3864177e2415a105767b03f787[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Renamed the files[m
+[33m54b395734afbdc00b6e41e6d55247e0f1562d4c8[m Added new file[m
+[33m6961190da9b00963a1765fd458cb41400c20e29d[m Initial commit[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log --pretty [K=format"[K:%h - %an, %ar : %s"
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> vhjvbej
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log --pretty=format:%h - %an, %ar : %s"
+
+
+vhjvbej[A[A[A]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ [K
+[K
+[K
+[K[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log --pretty=format:%h - %an, %ar : %s"
+
+
+vhjvbej[K[K[K[K[K[K[K[K[A[K[A[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[1@"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C%ss"
+[?2004l[?1h=85ffbd4 - Arpit Kumar, 3 minutes ago : Renamed the filess[m
+54b3957 - Arpit Kumar, 10 minutes ago : Added new files[m
+6961190 - Arpit Kumar, 19 minutes ago : Initial commits[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git log --pretty=format:"%h - %an, %ar : %ss"[K[K"
+[?2004l[?1h=85ffbd4 - Arpit Kumar, 3 minutes ago : Renamed the files[m
+54b3957 - Arpit Kumar, 10 minutes ago : Added new file[m
+6961190 - Arpit Kumar, 19 minutes ago : Initial commit[m
+[K[?1l>[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git commit --amme[K[Kend
+[?2004lhint: Waiting for your editor to close the file... error: cannot run notepad: No such file or directory
+error: unable to start editor 'notepad'
+Please supply the message using either -m or -F option.
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git commit --amend -f
+[?2004lerror: unknown switch `f'
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup [(amend|reword):]commit
+                          use autosquash formatted message to fixup or amend/reword specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    --trailer <trailer>   add custom trailer(s)
+    -s, --signoff         add a Signed-off-by trailer
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <mode>      how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git status
+[?2004lOn branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git re[K[K[K[K[K[Kgit branch --unset-upste[Kream
+[?2004l[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ f[Kgit sts[Katus
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git[K[K[Kls
+[?2004l[0m[01;32mfile1[0m  [01;32mfile2[0m
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': ArpitKumar
+Password for 'https://ArpitKumar@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': ArpitKumarAk K
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': ArpitKumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ Arpit[K[K[K[K[Kgit push -u origin main
+[?2004lUsername for 'https://github.com': ArpitKumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': Arpit-Kumar-Tiger
+Password for 'https://Arpit-Kumar-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': ^[[A^[[B^[[B            ArpitKumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u origin main
+[?2004lUsername for 'https://github.com': Arpitk KumarAL K' 
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ [7m14247698@Ak[27m[1P14247698@A[K[K[K[K[K[K[K[K[K[K[K]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ [7mgit remote add origin https://github.com/ArpitKum[27m[7ma[27m[7mrAK/first_one.git [27m
+[7mgit push -u origin main[27m[A[A]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git remote add origin https://github.com/ArpitKumarAK/first_one.git
+git push -u origin main[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lerror: remote origin already exists.
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git remote add origin https://github.com/ArpitKumarAK/first_one.git[A]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ [C[C[C[C[26Ppush -u origin main
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/ArpitKumarAK/first_one.git[A]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7mgit push -u origin main[27mgit push -u origin main
+[?2004lUsername for 'https://github.com': ArpitKumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git remote
+[?2004lorigin
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git remote -v
+[?2004lorigin	https://github.com/ArpitKumarAK/first_one (fetch)
+origin	https://github.com/ArpitKumarAK/first_one (push)
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git remote -v[Kpush -u origin main[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004lfatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ git push -u[K-set [K-upstream origin main
+[?2004lUsername for 'https://github.com': Arpitk KumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ exit
+[?2004lexit
+There are stopped jobs.
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[00m$ exitgit push --set-upstream origin main
+[?2004lUsername for 'https://github.com': ArpitKumarAK
+Password for 'https://ArpitKumarAK@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ArpitKumarAK/first_one/'
+[?2004h]0;arpitkumar@TIGER01108: /mnt/d/Learning & Development/TAMLEP/Learnings/TAMLEP_assignment1/first_one[01;32marpitkumar@TIGER01108[00m:[01;34m/mnt/d/Learning & Developme
